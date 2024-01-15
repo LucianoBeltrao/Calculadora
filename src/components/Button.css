@@ -17,12 +17,12 @@
 
 }
 
-.button.double{
-    grid-column: span2;
+.button.double {
+    grid-column: span 2;
 }
 
-.button.triple{
-    grid-column: span3;
+.button.triple {
+    grid-column: span 3;
 }
 
 .button.operation {
